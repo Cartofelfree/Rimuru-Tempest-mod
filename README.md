@@ -9,4 +9,6 @@ This mod adds the Rimuru costume from the "That Time I Reincarnated as a Slime" 
  
  That's all for now  (-  ˙ -) <-- This is Remuru slime.
  
+ Source code's broken
+ 
 More will add soon
