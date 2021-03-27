@@ -1,0 +1,5 @@
+displayName = Rimuru Tempest mod
+author = Cartofel_Free
+version = 0.1.0.3
+hideCode = true
+homepage = 

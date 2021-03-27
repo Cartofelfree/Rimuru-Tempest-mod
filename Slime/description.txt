@@ -1,0 +1,14 @@
+[Google Translate]
+This mod adds the Rimuru costume from the "That Time I Reincarnated as a Slime" anime. The mod is made by a beginner in modding and (so far) is nothing large-scale. I plan to add the ability to turn into slime in the future, but I do not promise anything since it is impossible to do this with my knowledge.
+GitHub link: https://github.com/Cartofelfree/Rimuru-Tempest-mod
+
+That's all for now  (-  ˙ -) <-- This is Rimuru slime
+
+Changelog: 
+v0.1.0.3 - Repainted clothing sprites and fixed their glitches. 
+- Changed the icon. 
+- Сhanged the sprite to the material.
+
+v0.1.0.2 - Added a mod icon. Soon I will make a mod page, and also add a link to Github
+
+v0.1.0.1 - I could understand why there is no mod icon
